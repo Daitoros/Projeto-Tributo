@@ -1,0 +1,24 @@
+
+#fundo{
+    margin: 20px 2px;
+    min-width: 300px;
+    max-width: 1560px;
+}
+
+.centralizado{
+    text-align: center;
+}
+ul.centralizado {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#fundo > fieldset{
+    max-width: 1500px;
+    min-width: 300px;
+}
+img{
+    display:flex;
+    margin: auto;
+}
