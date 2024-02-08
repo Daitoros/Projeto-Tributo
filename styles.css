@@ -1,8 +1,10 @@
 
 #fundo{
-    margin: 20px 2px;
+    margin: 20px auto;
     min-width: 300px;
     max-width: 1560px;
+    background-color: #DCDCDC;
+    border: none;
 }
 
 .centralizado{
@@ -16,9 +18,13 @@ ul.centralizado {
 
 #fundo > fieldset{
     max-width: 1500px;
-    min-width: 300px;
+    min-width: 200px;
+    background-color: white;
+    border: none;
 }
+/*Ver como ajustar a imagem pra ficar sempre dentro do fieldset*/
 img{
-    display:flex;
+    display:block;
     margin: auto;
+    max-width: 100%;
 }
