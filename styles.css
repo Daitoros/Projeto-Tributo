@@ -1,9 +1,11 @@
-
+html{
+    font-family: "Roboto Condensed", sans-serif;
+}
 #fundo{
     margin: 20px auto;
     min-width: 300px;
     max-width: 1560px;
-    background-color: #DCDCDC;
+    background-color: #ADD8E6;
     border: none;
 }
 
